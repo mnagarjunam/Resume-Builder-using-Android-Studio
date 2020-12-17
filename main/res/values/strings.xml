@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string-array name="names">
+        <item>10</item>
+        <item>10+2</item>
+        <item>Bachelors degree</item>
+        <item>Integrated Masters(5 years) degree</item>
+        <item>Masters degree</item>
+        <item>Doctoral degree</item>
+        <item>others</item>
+    </string-array>
+</resources>
